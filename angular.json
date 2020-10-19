@@ -123,10 +123,6 @@
           }
         }
       }
-    }
-  },
-  "defaultProject": "routerdemo3",
-  "cli": {
-    "analytics": "7b295a0a-315a-481d-8117-51f82a4632f0"
-  }
+    }},
+  "defaultProject": "routerdemo3"
 }
